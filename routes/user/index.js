@@ -1,5 +1,5 @@
-import {Router} from 'easyserver.js';
-// import {Router} from './../../lib/lib/index';
+// import {Router} from 'easyserver.js';
+import {Router} from './../../lib/lib/index';
 export default class user extends Router{
     constructor(){
         super();
