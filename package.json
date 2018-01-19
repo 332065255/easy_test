@@ -21,6 +21,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "easyserver.js": "0.0.4"
+    "easyserver.js": "0.0.9"
   }
 }
